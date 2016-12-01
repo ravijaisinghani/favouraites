@@ -1,2 +1,7 @@
 ravi
 indian food
+italian 
+american
+japenese
+chinese
+arabian
